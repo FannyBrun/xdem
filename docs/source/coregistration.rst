@@ -92,7 +92,7 @@ Example
 ^^^^^^^
 
 .. literalinclude:: code/coregistration.py
-        :lines: 27-32
+        :lines: 26-32
 
 
 .. minigallery:: xdem.coreg.NuthKaab
